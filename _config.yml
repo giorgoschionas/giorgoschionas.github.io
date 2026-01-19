@@ -25,13 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Georgios Chionas"
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Liverpool, UK"
   email            : "g.chionas@liverpool.ac.uk" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=ht7HZV0AAAAJ"
-  orcid            : "https://orcid.org/yourorcidurl"
 
   # Repositories and software development
   github           : "giorgoschionas"
