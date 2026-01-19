@@ -27,7 +27,6 @@ author:
   name             : "Georgios Chionas"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Liverpool, UK"
-  uri              : # URL
   email            : "g.chionas@liverpool.ac.uk" 
 
   # Academic websites
@@ -35,15 +34,10 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "https://github.com/giorgoschionas"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "giorgoschionas"
 
   # Social media
-  twitter          : "https://x.com/chionas_"
+  twitter          : "chionas_"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
