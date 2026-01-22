@@ -1,6 +1,7 @@
 ---
 title: "MEV Sharing with Dynamic Extraction Rates"
 collection: publications
+category: conferences
 permalink: /publication/2024-mev-sharing
 excerpt: 'An analysis of dynamic extraction rates in MEV sharing.'
 date: 2024-10-01
