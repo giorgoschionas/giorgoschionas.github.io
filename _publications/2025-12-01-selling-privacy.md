@@ -1,6 +1,7 @@
 ---
 title: "Selling Privacy in Blockchain Transactions"
 collection: publications
+category: conferences
 permalink: /publication/2025-selling-privacy
 excerpt: 'We explore privacy mechanisms in blockchain environments.'
 date: 2025-12-01
