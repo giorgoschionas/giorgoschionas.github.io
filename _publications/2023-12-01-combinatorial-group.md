@@ -1,6 +1,7 @@
 ---
 title: "Combinatorial Group Testing with Selfish Agents"
 collection: publications
+category: conferences
 permalink: /publication/2023-combinatorial-group
 excerpt: 'Game theoretic approaches to group testing.'
 date: 2023-12-01
