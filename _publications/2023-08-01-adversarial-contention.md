@@ -1,6 +1,7 @@
 ---
 title: "Adversarial Contention Resolution Games"
 collection: publications
+category: conferences
 permalink: /publication/2023-adversarial-contention
 excerpt: 'Analyzing contention resolution from an adversarial perspective.'
 date: 2023-08-01
