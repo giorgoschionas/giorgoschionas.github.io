@@ -48,6 +48,17 @@
   }
 }
 
+/* Reduce spacing between lines in publication items */
+.archive__item {
+  h2 {
+    margin-bottom: 0.1em;
+  }
+  p {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+  }
+}
+
 /* remove border*/
 .page__content {
 
