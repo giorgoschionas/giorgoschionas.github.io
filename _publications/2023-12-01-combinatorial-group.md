@@ -3,9 +3,8 @@ title: "Combinatorial Group Testing with Selfish Agents"
 collection: publications
 category: conferences
 permalink: /publication/2023-combinatorial-group
-excerpt: 'Game theoretic approaches to group testing.'
-date: 2023-12-01
-venue: 'NeurIPS 2023'
-authors: 'Georgios Chionas, Bodgan Chlebus, Dariusz Kowalski, Piotr Krysta'
-citation: 'Georgios Chionas, Bodgan Chlebus, Dariusz Kowalski, Piotr Krysta. (2023). "Combinatorial Group Testing with Selfish Agents." <i>NeurIPS 2023</i>.'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/file/69f98acf161316ed896047e45da3bc0c-Paper-Conference.pdf'
+venue: 'Conference on Neural Information Processing Systems (NeurIPS 2023)'
+authors: 'Georgios Chionas, Dariusz Kowalski, Piotr Krysta'
+citation: 'Georgios Chionas, Dariusz Kowalski, Piotr Krysta.'
 ---
