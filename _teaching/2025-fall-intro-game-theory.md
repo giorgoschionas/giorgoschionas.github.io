@@ -8,4 +8,3 @@ date: 2025-09-01
 location: "Liverpool, UK"
 ---
 
-Assisted students with weekly exercises and co-taught the module with Prof. Paul Spirakis.

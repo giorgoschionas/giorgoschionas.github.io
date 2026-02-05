@@ -8,4 +8,3 @@ date: 2024-01-15
 location: "Liverpool, UK"
 ---
 
-Assisted students with weekly exercises.
